@@ -7,3 +7,5 @@ Clean-up data to get the dataset that is ready to model "nhanes_model_ready.csv"
 Data Exploration in the "data_exploration" folder using the "nhanes_model_ready.csv" dataset.
 
 We will build the model based on the model proposal using the dataset "nhanes_model_ready.csv".
+
+We will build two separate models: (1) Lasso/Ridge Regression (2) Gradient boosting (XGBoost or LightGBM) based on the the cleaned up dataset "nhanes_model_ready.csv".
