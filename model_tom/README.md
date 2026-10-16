@@ -2,4 +2,4 @@
 
 ## (1) LASSO / RIDGE/ Elastic-Net Regression
 
-@@ (2) Gradient Boosting (XGBoost or LightGBM)
+## (2) Gradient Boosting (XGBoost or LightGBM)
